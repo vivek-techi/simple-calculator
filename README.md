@@ -1,5 +1,5 @@
 # simple-calculator
-    This is a simple calculator program using Java language. it is a simple calculator program which can perform basic arithmetic operations like addition, subtraction, multiplication and division depending upon the user input.  this  program is coded for better understanding,  so that anyone can easily access and learn the program quickly.
+In this program, you'll learn to make a simple calculator using switch case in Java. This calculator program would be able to add, subtract, multiply and divide two numbers.
     
     
     Approach Used:
