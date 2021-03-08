@@ -9,14 +9,16 @@ In this program, you'll learn to make a simple calculator using switch case in J
 3.Using a switch case method to evaluate respective operations.
 
 Algorithm :
-
-1.		Begin 
-2.		Print "Enter your choice" 
-3.		Enter your choice 
-4.		Enter two operands 
-5.		If the user enters + or - or * or / then follow the below steps 
+1.  first create  a class name 
+2.  import the scanner fuction as it uses to obtain inputs like double,integer etc ..
+3.  declare the  class as public so that it can be accessed anywhere.
+4.  declare the variables in double so that it can in integer/double form
+5.  create an object for the scanner class,so that it can show on the output
+6.  initialize the double variable 
+7.  enter the  operators which is going to perform 
+8.    If the user enters + or - or * or / then follow the below steps 
 		else flow goes to default case & exit the program 
-6.		Switch(operator) :
+		Switch(operator) :
     a.	case +: 
 		i.		Print ‘Addition’. 
 		ii.		Print result of summation. 
